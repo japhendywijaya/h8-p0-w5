@@ -1,9 +1,9 @@
-    DONE - Anchor 1 - [Exercises 13] Most Frequent Largest Numbers
-    DONE - Anchor 2 - [Exercises 14] Password Generator
-    DONE - Anchor 3 - [Exercises 15] Makan Terus Rekursif
-    DONE - Anchor 4 - [Exercises 16] Total Digit Rekursif
-    DONE - Anchor 5 - [Exercises 17] Kali Terus Rekursif
+    DONE - UPLOAD - Anchor 1 - [Exercises 13] Most Frequent Largest Numbers
+    DONE - UPLOAD - Anchor 2 - [Exercises 14] Password Generator
+    DONE - UPLOAD - Anchor 3 - [Exercises 15] Makan Terus Rekursif
+    DONE - UPLOAD - Anchor 4 - [Exercises 16] Total Digit Rekursif
+    DONE - UPLOAD - Anchor 5 - [Exercises 17] Kali Terus Rekursif
     DONE to gitBranch - Anchor 6 - [Exercises 5] Damage Calculation
     DONE to gitBranch - Anchor 7 - [Exercises 6] Melee Ranged Grouping
-Anchor 8 - [Exercises 7] Hapus Simbol
-Anchor 9 - [Exercises 8] Cari Pelaku
+    DONE - Anchor 8 - [Exercises 7] Hapus Simbol
+    DONE - Anchor 9 - [Exercises 8] Cari Pelaku
